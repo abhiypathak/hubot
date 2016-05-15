@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+# bot
+
+This bot is installed on a Docker container running Ubuntu 16.04, node 4.4.4 and npm 3.9.0. 
+
+Ensure you have a local redis server installed, if you like caching
+
 # bot
 
 bot is a chat bot built on the [Hubot][hubot] framework. It was
@@ -212,3 +219,7 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+=======
+# hubot
+A hubot installed on node 4.4.4 npm 3.9.0
+>>>>>>> 2d1894e6773167fc681cadf2de511a7fc74cd798
