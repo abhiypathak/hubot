@@ -8,7 +8,7 @@ This README is intended to help get you started. Definitely update and improve
 to talk about your own instance, how to use and deploy, what functionality he
 has, etc!
 
-his bot is installed on a Docker container running Ubuntu 16.04, node 4.4.4 and
+This bot is installed on a Docker container running Ubuntu 16.04, node 4.4.4 and
 npm 3.9.0.
 
 Ensure you have a local redis server installed, if you like caching
